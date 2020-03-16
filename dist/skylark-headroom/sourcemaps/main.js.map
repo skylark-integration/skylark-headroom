@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["define","Headroom"],"mappings":";;;;;;;AAAAA,QACC,aACA,mBACC,SAASC,GACV,OAAOA","file":"../main.js","sourcesContent":["define([\r\n\t\"./Headroom\",\r\n\t\"jQuery.headroom\"\r\n],function(Headroom){\r\n\treturn Headroom;\r\n});"]}
